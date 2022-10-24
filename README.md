@@ -6,7 +6,7 @@ In this project we were given a starter code for a company website that required
 Firstly, we had to clone the starter code locally and create a GitHub repository for this project. The repository is called Challenge-1 and linked below:
 https://github.com/SadeJoseph/Challenge-1
 
-As per the "Aceeptance criteria" I made the following changes to the original starter code. 
+As per the "Acceptance criteria" I made the following changes to the original starter code: 
 
 - Added a few comments to get a clearer idea of what each section within the css file was for. 
 
