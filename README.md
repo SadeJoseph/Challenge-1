@@ -26,10 +26,17 @@ As per the "Aceeptance criteria" I made the following changes to the original st
 
 I was able to identify redudent code and how to clean it up whilst gaining famiarlarity with a range of html and css terminology. 
 
-Website preview:
-<img src="./documents/screenshot"/>
-
 ## Installation 
 N/A
+
+## Usage
+Code refactoring to ensure it is optimised for search engines and follows HTML semantic best practice. Semantic elements can be useful for a range of individuals including those who use a screen reader. 
+
+## Credits
+N/A
+
+## Licence 
+Please refer to License in the REPO
+
 
 ##
