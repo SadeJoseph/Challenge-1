@@ -24,6 +24,11 @@ As per the "Aceeptance criteria" I made the following changes to the original st
 
 - I also did the same with the classes of the "content" section, adding the class "images" to consolidate the style selectors.
 
+I was able to identify redudent code and how to clean it up whilst gaining famiarlarity with a range of html and css terminology. 
+
+Website preview:
+<img src="./documents/screenshot"/>
+
 ## Installation 
 N/A
 
